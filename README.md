@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Projekt startowy dla aplikacji "Lista Zadań".
 
 ## Sprawdzenie wersji Angular CLI
@@ -21,8 +20,3 @@
 
 ## Komendy
 - uruchomienie prettiera `npm run format`
-=======
-# angular-todo-list-udemy
-
-First project from udemy course
->>>>>>> 429d26f7ac473a80029a31efe26e4e072947071a
